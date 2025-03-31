@@ -13,7 +13,8 @@ SWE-Reasoner has demonstrated impressive performance in software engineering tas
 - 🌟 Achieved a **37.60% (32B) solution rate on the authoritative SWE-bench Verified** leaderboard for software engineering intelligent agents.
 - 🌟 When combined with External TTC (budget=8), our model’s performance further **increases to 46.0%**.
 
-## Model Link: https://modelscope.cn/models/Lingma/SWE-Reasoner
+## Model Link
+https://modelscope.cn/models/Lingma/SWE-Reasoner
 
 ## Training data
 We have provided the training data for SWE-Reasoner in the **training_data/**.
