@@ -23,6 +23,18 @@ We have provided the training data for SWE-Reasoner in the **training_data/**.
 
 Code is coming soon.
 
+## Citation
+
+@misc{ma2025thinkinglongerlargerenhancing,
+      title={Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Scaling Test-Time Compute}, 
+      author={Yingwei Ma and Binhua Li and Yihong Dong and Xue Jiang and Rongyu Cao and Jue Chen and Fei Huang and Yongbin Li},
+      year={2025},
+      eprint={2503.23803},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2503.23803}, 
+}
+
 ## Acknowledgments
 
 We would also like to thank the [SWE-bench](https://github.com/princeton-nlp/SWE-bench), [AutoCodeRover](https://github.com/nus-apr/auto-code-rover), [SWESynInfer](https://github.com/LingmaTongyi/Lingma-SWE-GPT), [SWE-Gym](https://github.com/SWE-Gym/SWE-Gym), [Nebius](https://huggingface.co/datasets/nebius/SWE-bench-extra), [SWE-fixer](https://github.com/InternLM/SWE-Fixer), [SWE-RL](https://github.com/facebookresearch/swe-rl) and [Agentless](https://github.com/OpenAutoCoder/Agentless) teams for their foundational work, which played an important role in the development of SWESynInfer+.
