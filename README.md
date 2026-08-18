@@ -1,10 +1,12 @@
+
+
 # SWE-Reasoner
 
 ## Overview
 
 **SWE-Reasoner**:  is an open-source large language model specifically designed for software improvement. Built upon the foundation of the Qwen series base models, SWE-Reasoner has undergone additional LongCoT training using software engineering development process data to enhance its capabilities in solving complex software engineering tasks.
 
-**SWESynInfer+**: four-stage software engineering process data synthesis and inference workflow. SWE-SynInfer divides the issue resolution process into three steps: (1) repository understanding to identify relevant codebase files, (2) fault localization to pinpoint problematic code segments, and (3) patch generation to produce candidate code edits. We extend this framework to include a Patch Verification phase, following Agentless, and call it SWE-SynInfer+.
+**SWE-SynInfer+**: four-stage software engineering process data synthesis and inference workflow. SWE-SynInfer divides the issue resolution process into three steps: (1) repository understanding to identify relevant codebase files, (2) fault localization to pinpoint problematic code segments, and (3) patch generation to produce candidate code edits. We extend this framework to include a Patch Verification phase, following Agentless, and call it SWE-SynInfer+.
 
 ## Model Performance
 
